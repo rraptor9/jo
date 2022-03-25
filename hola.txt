@@ -1,1 +1,3 @@
 caca
+fichero de configuraciopn del vpn
+obtenido desde node red
